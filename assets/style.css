@@ -1,6 +1,6 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 16px;
   }
   
   textarea {
@@ -25,9 +25,10 @@ body {
   }
   
   .hour {
-    background-color: #ffffff;
+    background-color: yellow;
     color: #000000;
     border-top: 1px dashed #000000;
+    font-size: 14px;
   }
   
   .past {
@@ -36,7 +37,7 @@ body {
   }
   
   .present {
-    background-color: royalblue;
+    background-color: #ff6961;
     color: white;
   }
   
